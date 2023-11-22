@@ -1,0 +1,15 @@
+1. False. Counterexample: 1 + 1 = 2 mod 3 
+			  1 - 1 = 0 mod 3
+
+2. True. Every element a in GF(2N): a + a = 0
+				    => a = -a
+				    => b + a = b - a
+3. True, the GF(2) multiplication table is   
+    0 1
+	
+0   0 0
+1   0 1
+
+4. False, GF(2^8) is only up to polynomial x^0 - > x^7
+
+5. True, we learnt in notes.. cannot be fatorised to lower polynomial

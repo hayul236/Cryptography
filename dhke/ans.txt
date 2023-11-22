@@ -1,0 +1,5 @@
+1. we do not need a secure channel because alice and bob can exchange public keys to generate secret keys to compute with their public keys
+
+2. advantage - safely transmit information over an insecure channel that would allow legitimate parties like Alice and Bob to securely derive a shared secret key
+
+   disadvantage - vulnerable to a man-in-the-middle attack
